@@ -1,0 +1,1846 @@
+#Game No : 490170324
+***** WSOP.com-NJ Hand History for Game 490170324 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:43:53
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,000 )
+Seat 2: bigmike79 ( $2,000 )
+Seat 4: EZduzIT ( $2,000 )
+Seat 6: Drank ( $2,000 )
+Seat 7: rbam13 ( $2,000 )
+Seat 9: crystal ( $2,000 )
+bigmike79 posts small blind [$10]
+EZduzIT posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6h, Kc ]
+Drank folds
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$10]
+EZduzIT raises [$20]
+bigmike79 calls [$20]
+** Dealing flop ** [ 5d, 5s, 6c ]
+bigmike79 checks
+EZduzIT bets [$40]
+bigmike79 calls [$40]
+** Dealing turn ** [ 4h ]
+bigmike79 checks
+EZduzIT bets [$40]
+bigmike79 calls [$40]
+** Dealing river ** [ 9d ]
+bigmike79 checks
+EZduzIT bets [$80]
+bigmike79 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $240 ]
+
+
+
+#Game No : 490170329
+***** WSOP.com-NJ Hand History for Game 490170329 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:44:34
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,000 )
+Seat 2: bigmike79 ( $1,880 )
+Seat 4: EZduzIT ( $2,120 )
+Seat 6: Drank ( $2,000 )
+Seat 7: rbam13 ( $2,000 )
+Seat 9: crystal ( $2,000 )
+EZduzIT posts small blind [$10]
+Drank posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 8h, 2h ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$20]
+EZduzIT calls [$10]
+Drank checks
+** Dealing flop ** [ Kc, 7d, 6c ]
+EZduzIT checks
+Drank checks
+bigmike79 bets [$20]
+EZduzIT folds
+Drank folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $60 ]
+
+
+
+#Game No : 490170340
+***** WSOP.com-NJ Hand History for Game 490170340 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:45:08
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,000 )
+Seat 2: bigmike79 ( $1,920 )
+Seat 4: EZduzIT ( $2,100 )
+Seat 6: Drank ( $1,980 )
+Seat 7: rbam13 ( $2,000 )
+Seat 9: crystal ( $2,000 )
+Drank posts small blind [$10]
+rbam13 posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 9d, Js ]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$20]
+EZduzIT raises [$40]
+Drank folds
+rbam13 calls [$20]
+bigmike79 calls [$20]
+** Dealing flop ** [ Ts, Kc, 8c ]
+rbam13 checks
+bigmike79 checks
+EZduzIT bets [$20]
+rbam13 folds
+bigmike79 calls [$20]
+** Dealing turn ** [ Qd ]
+bigmike79 checks
+EZduzIT bets [$20]
+bigmike79 calls [$20]
+** Dealing river ** [ Kh ]
+bigmike79 checks
+EZduzIT bets [$60]
+bigmike79 calls [$60]
+** Summary **
+EZduzIT shows [ 8d, Ah ]
+bigmike79 mucks [ 8h, 3c ]
+EZduzIT collected [ $330 ]
+
+
+
+#Game No : 490170369
+***** WSOP.com-NJ Hand History for Game 490170369 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:46:28
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,000 )
+Seat 2: bigmike79 ( $1,780 )
+Seat 4: EZduzIT ( $2,290 )
+Seat 6: Drank ( $1,970 )
+Seat 7: rbam13 ( $1,960 )
+Seat 9: crystal ( $2,000 )
+rbam13 posts small blind [$10]
+crystal posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2h, 3s ]
+Moejay1021 folds
+bigmike79 calls [$20]
+EZduzIT folds
+Drank folds
+rbam13 calls [$10]
+crystal checks
+** Dealing flop ** [ Ts, Tc, Ad ]
+rbam13 checks
+crystal checks
+bigmike79 bets [$60]
+rbam13 folds
+crystal folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $60 ]
+
+
+
+#Game No : 490170375
+***** WSOP.com-NJ Hand History for Game 490170375 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:47:05
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,000 )
+Seat 2: bigmike79 ( $1,820 )
+Seat 4: EZduzIT ( $2,290 )
+Seat 6: Drank ( $1,970 )
+Seat 7: rbam13 ( $1,940 )
+Seat 9: crystal ( $1,980 )
+crystal posts small blind [$10]
+Moejay1021 posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ac, As ]
+bigmike79 calls [$20]
+EZduzIT folds
+Drank folds
+rbam13 calls [$20]
+crystal folds
+Moejay1021 raises [$60]
+bigmike79 calls [$60]
+rbam13 folds
+** Dealing flop ** [ Th, 6c, 2c ]
+Moejay1021 bets [$95]
+bigmike79 calls [$95]
+** Dealing turn ** [ 4d ]
+Moejay1021 bets [$190]
+bigmike79 calls [$190]
+** Dealing river ** [ 8s ]
+Moejay1021 bets [$380]
+bigmike79 calls [$380]
+** Summary **
+Moejay1021 shows [ Ac, As ]
+bigmike79 mucks [ Ts, 5s ]
+Moejay1021 collected [ $1,520 ]
+
+
+
+#Game No : 490170391
+***** WSOP.com-NJ Hand History for Game 490170391 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:47:56
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,775 )
+Seat 2: bigmike79 ( $1,075 )
+Seat 4: EZduzIT ( $2,290 )
+Seat 6: Drank ( $1,970 )
+Seat 7: rbam13 ( $1,920 )
+Seat 9: crystal ( $1,970 )
+Moejay1021 posts small blind [$10]
+bigmike79 posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 4d, 6h ]
+EZduzIT raises [$40]
+Drank folds
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 raises [$60]
+EZduzIT calls [$40]
+** Dealing flop ** [ 7c, Td, Ks ]
+bigmike79 bets [$80]
+EZduzIT calls [$80]
+** Dealing turn ** [ Jd ]
+bigmike79 bets [$330]
+EZduzIT calls [$330]
+** Dealing river ** [ 5c ]
+bigmike79 bets [$585]
+EZduzIT calls [$585]
+** Summary **
+bigmike79 shows [ Kh, Ah ]
+EZduzIT shows [ Ad, Tc ]
+bigmike79 collected [ $2,160 ]
+
+
+
+#Game No : 490170405
+***** WSOP.com-NJ Hand History for Game 490170405 *****
+$10/$20 Blinds No Limit Holdem - *** 23 09 2017 17:48:32
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,765 )
+Seat 2: bigmike79 ( $2,160 )
+Seat 4: EZduzIT ( $1,215 )
+Seat 6: Drank ( $1,970 )
+Seat 7: rbam13 ( $1,920 )
+Seat 9: crystal ( $1,970 )
+bigmike79 posts small blind [$10]
+EZduzIT posts big blind [$20]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5d, Jc ]
+Drank folds
+rbam13 raises [$60]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$50]
+EZduzIT calls [$40]
+** Dealing flop ** [ 4s, 4d, 3c ]
+bigmike79 checks
+EZduzIT checks
+rbam13 bets [$110]
+bigmike79 folds
+EZduzIT folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $180 ]
+
+
+
+#Game No : 490170414
+***** WSOP.com-NJ Hand History for Game 490170414 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:49:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,765 )
+Seat 2: bigmike79 ( $2,100 )
+Seat 4: EZduzIT ( $1,155 )
+Seat 6: Drank ( $1,970 )
+Seat 7: rbam13 ( $2,040 )
+Seat 9: crystal ( $1,970 )
+EZduzIT posts small blind [$15]
+Drank posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2h, Jc ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$30]
+EZduzIT calls [$15]
+Drank checks
+** Dealing flop ** [ Ts, Ah, 4c ]
+EZduzIT checks
+Drank checks
+bigmike79 checks
+** Dealing turn ** [ Td ]
+EZduzIT checks
+Drank checks
+bigmike79 checks
+** Dealing river ** [ Qd ]
+EZduzIT checks
+Drank checks
+bigmike79 checks
+** Summary **
+EZduzIT shows [ 2c, Jd ]
+Drank mucks [ 5c, 7s ]
+bigmike79 shows [ Kd, 2s ]
+bigmike79 collected [ $90 ]
+
+
+
+#Game No : 490170424
+***** WSOP.com-NJ Hand History for Game 490170424 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:49:48
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,765 )
+Seat 2: bigmike79 ( $2,160 )
+Seat 4: EZduzIT ( $1,125 )
+Seat 6: Drank ( $1,940 )
+Seat 7: rbam13 ( $2,040 )
+Seat 9: crystal ( $1,970 )
+Drank posts small blind [$15]
+rbam13 posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6c, Js ]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$30]
+EZduzIT folds
+Drank calls [$15]
+rbam13 raises [$120]
+bigmike79 folds
+Drank folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $90 ]
+
+
+
+#Game No : 490170435
+***** WSOP.com-NJ Hand History for Game 490170435 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:50:16
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,765 )
+Seat 2: bigmike79 ( $2,130 )
+Seat 4: EZduzIT ( $1,125 )
+Seat 6: Drank ( $1,910 )
+Seat 7: rbam13 ( $2,100 )
+Seat 9: crystal ( $1,970 )
+rbam13 posts small blind [$15]
+crystal posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ Qd, 6s ]
+Moejay1021 folds
+bigmike79 calls [$30]
+EZduzIT folds
+Drank folds
+rbam13 calls [$15]
+crystal checks
+** Dealing flop ** [ Ts, 5d, 6h ]
+rbam13 checks
+crystal checks
+bigmike79 bets [$30]
+rbam13 folds
+crystal folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $90 ]
+
+
+
+#Game No : 490170447
+***** WSOP.com-NJ Hand History for Game 490170447 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:50:55
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,765 )
+Seat 2: bigmike79 ( $2,190 )
+Seat 4: EZduzIT ( $1,125 )
+Seat 6: Drank ( $1,910 )
+Seat 7: rbam13 ( $2,070 )
+Seat 9: crystal ( $1,940 )
+crystal posts small blind [$15]
+Moejay1021 posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ad, Ts ]
+bigmike79 folds
+EZduzIT folds
+Drank folds
+rbam13 folds
+crystal calls [$15]
+Moejay1021 checks
+** Dealing flop ** [ Kh, 8h, 9h ]
+crystal bets [$180]
+Moejay1021 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $60 ]
+
+
+
+#Game No : 490170461
+***** WSOP.com-NJ Hand History for Game 490170461 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:51:29
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,735 )
+Seat 2: bigmike79 ( $2,190 )
+Seat 4: EZduzIT ( $1,125 )
+Seat 6: Drank ( $1,910 )
+Seat 7: rbam13 ( $2,070 )
+Seat 9: crystal ( $1,970 )
+Moejay1021 posts small blind [$15]
+bigmike79 posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ 7d, 5d ]
+EZduzIT raises [$60]
+Drank calls [$60]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$30]
+** Dealing flop ** [ 4d, 6d, 8h ]
+bigmike79 checks
+EZduzIT bets [$30]
+Drank folds
+bigmike79 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $195 ]
+
+
+
+#Game No : 490170473
+***** WSOP.com-NJ Hand History for Game 490170473 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:52:06
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,720 )
+Seat 2: bigmike79 ( $2,130 )
+Seat 4: EZduzIT ( $1,260 )
+Seat 6: Drank ( $1,850 )
+Seat 7: rbam13 ( $2,070 )
+Seat 9: crystal ( $1,970 )
+bigmike79 posts small blind [$15]
+EZduzIT posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ 8s, Ah ]
+Drank folds
+rbam13 raises [$75]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$60]
+EZduzIT calls [$45]
+** Dealing flop ** [ Th, 7d, 3s ]
+bigmike79 bets [$30]
+EZduzIT calls [$30]
+rbam13 raises [$180]
+bigmike79 folds
+EZduzIT calls [$150]
+** Dealing turn ** [ 2d ]
+EZduzIT checks
+rbam13 bets [$337]
+EZduzIT folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $615 ]
+
+
+
+#Game No : 490170501
+***** WSOP.com-NJ Hand History for Game 490170501 *****
+$15/$30 Blinds No Limit Holdem - *** 23 09 2017 17:53:05
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,720 )
+Seat 2: bigmike79 ( $2,025 )
+Seat 4: EZduzIT ( $1,005 )
+Seat 6: Drank ( $1,850 )
+Seat 7: rbam13 ( $2,430 )
+Seat 9: crystal ( $1,970 )
+EZduzIT posts small blind [$15]
+Drank posts big blind [$30]
+** Dealing down cards **
+Dealt to Moejay1021 [ 8d, 3d ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$30]
+EZduzIT raises [$45]
+Drank folds
+bigmike79 calls [$30]
+** Dealing flop ** [ 8h, 5s, 6c ]
+EZduzIT checks
+bigmike79 bets [$30]
+EZduzIT calls [$30]
+** Dealing turn ** [ Th ]
+EZduzIT bets [$90]
+bigmike79 calls [$90]
+** Dealing river ** [ 6d ]
+EZduzIT bets [$195]
+bigmike79 calls [$195]
+** Summary **
+EZduzIT shows [ Qh, Ts ]
+bigmike79 shows [ Td, 7h ]
+EZduzIT collected [ $780 ]
+
+
+
+#Game No : 490170524
+***** WSOP.com-NJ Hand History for Game 490170524 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:53:55
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Moejay1021 ( $2,720 )
+Seat 2: bigmike79 ( $1,650 )
+Seat 4: EZduzIT ( $1,410 )
+Seat 6: Drank ( $1,820 )
+Seat 7: rbam13 ( $2,430 )
+Seat 9: crystal ( $1,970 )
+Drank posts small blind [$25]
+rbam13 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5s, 5d ]
+crystal folds
+Moejay1021 raises [$150]
+bigmike79 folds
+EZduzIT folds
+Drank calls [$125]
+rbam13 folds
+** Dealing flop ** [ 5h, 2h, 4c ]
+Drank checks
+Moejay1021 bets [$175]
+Drank calls [$175]
+** Dealing turn ** [ 7s ]
+Drank checks
+Moejay1021 bets [$350]
+Drank calls [$350]
+** Dealing river ** [ 9c ]
+Drank bets [$1,145]
+Moejay1021 calls [$1,145]
+** Summary **
+Moejay1021 shows [ 5s, 5d ]
+Drank shows [ 8d, Ad ]
+Moejay1021 collected [ $3,690 ]
+
+
+
+#Game No : 490170544
+***** WSOP.com-NJ Hand History for Game 490170544 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:54:53
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $4,590 )
+Seat 2: bigmike79 ( $1,650 )
+Seat 4: EZduzIT ( $1,410 )
+Seat 7: rbam13 ( $2,380 )
+Seat 9: crystal ( $1,970 )
+rbam13 posts small blind [$25]
+crystal posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ Kd, 9h ]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 raises [$125]
+crystal folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $100 ]
+
+
+
+#Game No : 490170553
+***** WSOP.com-NJ Hand History for Game 490170553 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:55:10
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $4,590 )
+Seat 2: bigmike79 ( $1,650 )
+Seat 4: EZduzIT ( $1,410 )
+Seat 7: rbam13 ( $2,430 )
+Seat 9: crystal ( $1,920 )
+crystal posts small blind [$25]
+Moejay1021 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 3d, 8d ]
+bigmike79 calls [$50]
+EZduzIT folds
+rbam13 calls [$50]
+crystal raises [$275]
+Moejay1021 folds
+bigmike79 folds
+rbam13 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $200 ]
+
+
+
+#Game No : 490170569
+***** WSOP.com-NJ Hand History for Game 490170569 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:55:39
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $4,540 )
+Seat 2: bigmike79 ( $1,600 )
+Seat 4: EZduzIT ( $1,410 )
+Seat 7: rbam13 ( $2,380 )
+Seat 9: crystal ( $2,070 )
+Moejay1021 posts small blind [$25]
+bigmike79 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5s, Kd ]
+EZduzIT raises [$100]
+rbam13 calls [$100]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$50]
+** Dealing flop ** [ 7d, Tc, 5c ]
+bigmike79 checks
+EZduzIT bets [$50]
+rbam13 calls [$50]
+bigmike79 folds
+** Dealing turn ** [ Ah ]
+EZduzIT bets [$150]
+rbam13 raises [$693]
+EZduzIT folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $725 ]
+
+
+
+#Game No : 490170586
+***** WSOP.com-NJ Hand History for Game 490170586 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:56:32
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $4,515 )
+Seat 2: bigmike79 ( $1,500 )
+Seat 4: EZduzIT ( $1,110 )
+Seat 7: rbam13 ( $2,805 )
+Seat 9: crystal ( $2,070 )
+bigmike79 posts small blind [$25]
+EZduzIT posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ Tc, 5h ]
+rbam13 raises [$125]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$100]
+EZduzIT folds
+** Dealing flop ** [ 5s, 4h, 8c ]
+bigmike79 checks
+rbam13 checks
+** Dealing turn ** [ 4d ]
+bigmike79 checks
+rbam13 checks
+** Dealing river ** [ Ks ]
+bigmike79 checks
+rbam13 bets [$150]
+bigmike79 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $300 ]
+
+
+
+#Game No : 490170595
+***** WSOP.com-NJ Hand History for Game 490170595 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:57:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $4,515 )
+Seat 2: bigmike79 ( $1,375 )
+Seat 4: EZduzIT ( $1,060 )
+Seat 7: rbam13 ( $2,980 )
+Seat 9: crystal ( $2,070 )
+EZduzIT posts small blind [$25]
+rbam13 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 8c, 8s ]
+crystal raises [$150]
+Moejay1021 calls [$150]
+bigmike79 folds
+EZduzIT folds
+rbam13 folds
+** Dealing flop ** [ 3c, Ts, 3d ]
+crystal bets [$100]
+Moejay1021 calls [$100]
+** Dealing turn ** [ 9d ]
+crystal checks
+Moejay1021 bets [$287]
+crystal raises [$574]
+Moejay1021 calls [$287]
+** Dealing river ** [ Jc ]
+crystal bets [$1,246]
+Moejay1021 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $1,723 ]
+
+
+
+#Game No : 490170610
+***** WSOP.com-NJ Hand History for Game 490170610 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:57:45
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,691 )
+Seat 2: bigmike79 ( $1,375 )
+Seat 4: EZduzIT ( $1,035 )
+Seat 7: rbam13 ( $2,930 )
+Seat 9: crystal ( $2,969 )
+rbam13 posts small blind [$25]
+crystal posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ks, Jd ]
+Moejay1021 raises [$150]
+bigmike79 folds
+EZduzIT folds
+rbam13 folds
+crystal folds
+** Summary **
+Moejay1021 did not show his hand
+Moejay1021 collected [ $125 ]
+
+
+
+#Game No : 490170620
+***** WSOP.com-NJ Hand History for Game 490170620 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:58:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,766 )
+Seat 2: bigmike79 ( $1,375 )
+Seat 4: EZduzIT ( $1,035 )
+Seat 7: rbam13 ( $2,905 )
+Seat 9: crystal ( $2,919 )
+crystal posts small blind [$25]
+Moejay1021 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6h, Jd ]
+bigmike79 folds
+EZduzIT raises [$100]
+rbam13 raises [$250]
+crystal folds
+Moejay1021 folds
+EZduzIT calls [$150]
+** Dealing flop ** [ 7c, 3s, Qc ]
+EZduzIT checks
+rbam13 bets [$575]
+EZduzIT folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $575 ]
+
+
+
+#Game No : 490170642
+***** WSOP.com-NJ Hand History for Game 490170642 *****
+$25/$50 Blinds No Limit Holdem - *** 23 09 2017 17:58:47
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,716 )
+Seat 2: bigmike79 ( $1,375 )
+Seat 4: EZduzIT ( $785 )
+Seat 7: rbam13 ( $3,230 )
+Seat 9: crystal ( $2,894 )
+Moejay1021 posts small blind [$25]
+bigmike79 posts big blind [$50]
+** Dealing down cards **
+Dealt to Moejay1021 [ 8d, Kh ]
+EZduzIT calls [$50]
+rbam13 folds
+crystal folds
+Moejay1021 raises [$125]
+bigmike79 folds
+EZduzIT calls [$100]
+** Dealing flop ** [ 6h, 2h, 2d ]
+Moejay1021 bets [$175]
+EZduzIT folds
+** Summary **
+Moejay1021 did not show his hand
+Moejay1021 collected [ $350 ]
+
+
+
+#Game No : 490170649
+***** WSOP.com-NJ Hand History for Game 490170649 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 17:59:29
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $1,325 )
+Seat 4: EZduzIT ( $635 )
+Seat 7: rbam13 ( $3,230 )
+Seat 9: crystal ( $2,894 )
+bigmike79 posts small blind [$50]
+EZduzIT posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 7s, 8c ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$50]
+EZduzIT checks
+** Dealing flop ** [ Ad, Qc, As ]
+bigmike79 checks
+EZduzIT checks
+** Dealing turn ** [ 7d ]
+bigmike79 bets [$100]
+EZduzIT folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $200 ]
+
+
+
+#Game No : 490170667
+***** WSOP.com-NJ Hand History for Game 490170667 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:00:11
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $1,425 )
+Seat 4: EZduzIT ( $535 )
+Seat 7: rbam13 ( $3,230 )
+Seat 9: crystal ( $2,894 )
+EZduzIT posts small blind [$50]
+rbam13 posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 3d, 9d ]
+crystal folds
+Moejay1021 folds
+bigmike79 raises [$200]
+EZduzIT folds
+rbam13 calls [$100]
+** Dealing flop ** [ 3s, 9c, Jd ]
+rbam13 checks
+bigmike79 bets [$300]
+rbam13 calls [$300]
+** Dealing turn ** [ Jh ]
+rbam13 checks
+bigmike79 bets [$925]
+rbam13 calls [$925]
+** Dealing river ** [ Jc ]
+** Summary **
+bigmike79 shows [ Kd, Ks ]
+rbam13 shows [ 5c, 5s ]
+bigmike79 collected [ $2,900 ]
+
+
+
+#Game No : 490170688
+***** WSOP.com-NJ Hand History for Game 490170688 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:01:10
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $2,900 )
+Seat 4: EZduzIT ( $485 )
+Seat 7: rbam13 ( $1,805 )
+Seat 9: crystal ( $2,894 )
+rbam13 posts small blind [$50]
+crystal posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2d, 9c ]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 raises [$250]
+crystal calls [$200]
+** Dealing flop ** [ Kd, 3d, Ad ]
+rbam13 bets [$600]
+crystal folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $600 ]
+
+
+
+#Game No : 490170701
+***** WSOP.com-NJ Hand History for Game 490170701 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:01:41
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $2,900 )
+Seat 4: EZduzIT ( $485 )
+Seat 7: rbam13 ( $2,105 )
+Seat 9: crystal ( $2,594 )
+crystal posts small blind [$50]
+Moejay1021 posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 9d, 6h ]
+bigmike79 folds
+EZduzIT raises [$485]
+rbam13 folds
+crystal calls [$435]
+Moejay1021 folds
+** Dealing flop ** [ Qh, 7h, 2c ]
+** Dealing turn ** [ 8s ]
+** Dealing river ** [ Kd ]
+** Summary **
+EZduzIT shows [ Kc, Qs ]
+crystal shows [ Ah, Js ]
+EZduzIT collected [ $1,070 ]
+
+
+
+#Game No : 490170716
+***** WSOP.com-NJ Hand History for Game 490170716 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:02:21
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,816 )
+Seat 2: bigmike79 ( $2,900 )
+Seat 4: EZduzIT ( $1,070 )
+Seat 7: rbam13 ( $2,105 )
+Seat 9: crystal ( $2,109 )
+Moejay1021 posts small blind [$50]
+bigmike79 posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 7s, 9d ]
+EZduzIT calls [$100]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 checks
+** Dealing flop ** [ 5h, Ad, Kd ]
+bigmike79 checks
+EZduzIT bets [$100]
+bigmike79 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $250 ]
+
+
+
+#Game No : 490170727
+***** WSOP.com-NJ Hand History for Game 490170727 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:02:41
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,766 )
+Seat 2: bigmike79 ( $2,800 )
+Seat 4: EZduzIT ( $1,220 )
+Seat 7: rbam13 ( $2,105 )
+Seat 9: crystal ( $2,109 )
+bigmike79 posts small blind [$50]
+EZduzIT posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5s, Kc ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$50]
+EZduzIT checks
+** Dealing flop ** [ 2c, 5h, 8c ]
+bigmike79 checks
+EZduzIT bets [$100]
+bigmike79 calls [$100]
+** Dealing turn ** [ Qh ]
+bigmike79 checks
+EZduzIT checks
+** Dealing river ** [ 6c ]
+bigmike79 checks
+EZduzIT checks
+** Summary **
+bigmike79 shows [ Jc, Ks ]
+EZduzIT shows [ Jh, 5d ]
+EZduzIT collected [ $400 ]
+
+
+
+#Game No : 490170745
+***** WSOP.com-NJ Hand History for Game 490170745 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:03:16
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,766 )
+Seat 2: bigmike79 ( $2,600 )
+Seat 4: EZduzIT ( $1,420 )
+Seat 7: rbam13 ( $2,105 )
+Seat 9: crystal ( $2,109 )
+EZduzIT posts small blind [$50]
+rbam13 posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 3d, Ad ]
+crystal folds
+Moejay1021 raises [$300]
+bigmike79 folds
+EZduzIT folds
+rbam13 folds
+** Summary **
+Moejay1021 did not show his hand
+Moejay1021 collected [ $250 ]
+
+
+
+#Game No : 490170754
+***** WSOP.com-NJ Hand History for Game 490170754 *****
+$50/$100 Blinds No Limit Holdem - *** 23 09 2017 18:03:36
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $2,600 )
+Seat 4: EZduzIT ( $1,370 )
+Seat 7: rbam13 ( $2,005 )
+Seat 9: crystal ( $2,109 )
+rbam13 posts small blind [$50]
+crystal posts big blind [$100]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2d, 8s ]
+Moejay1021 folds
+bigmike79 calls [$100]
+EZduzIT folds
+rbam13 calls [$50]
+crystal checks
+** Dealing flop ** [ Th, Qh, Kh ]
+rbam13 checks
+crystal bets [$2,009]
+bigmike79 folds
+rbam13 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $300 ]
+
+
+
+#Game No : 490170763
+***** WSOP.com-NJ Hand History for Game 490170763 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:03:59
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,916 )
+Seat 2: bigmike79 ( $2,500 )
+Seat 4: EZduzIT ( $1,370 )
+Seat 7: rbam13 ( $1,905 )
+Seat 9: crystal ( $2,309 )
+crystal posts small blind [$75]
+Moejay1021 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ Jh, 6c ]
+bigmike79 folds
+EZduzIT folds
+rbam13 raises [$375]
+crystal folds
+Moejay1021 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $375 ]
+
+
+
+#Game No : 490170774
+***** WSOP.com-NJ Hand History for Game 490170774 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:04:24
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,766 )
+Seat 2: bigmike79 ( $2,500 )
+Seat 4: EZduzIT ( $1,370 )
+Seat 7: rbam13 ( $2,130 )
+Seat 9: crystal ( $2,234 )
+Moejay1021 posts small blind [$75]
+bigmike79 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5h, 7d ]
+EZduzIT calls [$150]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 checks
+** Dealing flop ** [ 2s, Jd, Kd ]
+bigmike79 checks
+EZduzIT bets [$150]
+bigmike79 calls [$150]
+** Dealing turn ** [ 9s ]
+bigmike79 bets [$675]
+EZduzIT folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $675 ]
+
+
+
+#Game No : 490170792
+***** WSOP.com-NJ Hand History for Game 490170792 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:05:05
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,691 )
+Seat 2: bigmike79 ( $2,875 )
+Seat 4: EZduzIT ( $1,070 )
+Seat 7: rbam13 ( $2,130 )
+Seat 9: crystal ( $2,234 )
+bigmike79 posts small blind [$75]
+EZduzIT posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ Jd, Jh ]
+rbam13 raises [$355]
+crystal folds
+Moejay1021 calls [$355]
+bigmike79 folds
+EZduzIT folds
+** Dealing flop ** [ 4d, Qc, Ks ]
+rbam13 checks
+Moejay1021 checks
+** Dealing turn ** [ 3h ]
+rbam13 bets [$400]
+Moejay1021 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $935 ]
+
+
+
+#Game No : 490170811
+***** WSOP.com-NJ Hand History for Game 490170811 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:05:44
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,336 )
+Seat 2: bigmike79 ( $2,800 )
+Seat 4: EZduzIT ( $920 )
+Seat 7: rbam13 ( $2,710 )
+Seat 9: crystal ( $2,234 )
+EZduzIT posts small blind [$75]
+rbam13 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ 3s, 2d ]
+crystal folds
+Moejay1021 folds
+bigmike79 folds
+EZduzIT calls [$75]
+rbam13 checks
+** Dealing flop ** [ 5d, 4s, Jc ]
+EZduzIT checks
+rbam13 checks
+** Dealing turn ** [ Ts ]
+EZduzIT bets [$150]
+rbam13 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $300 ]
+
+
+
+#Game No : 490170824
+***** WSOP.com-NJ Hand History for Game 490170824 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:06:09
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,336 )
+Seat 2: bigmike79 ( $2,800 )
+Seat 4: EZduzIT ( $1,070 )
+Seat 7: rbam13 ( $2,560 )
+Seat 9: crystal ( $2,234 )
+rbam13 posts small blind [$75]
+crystal posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ 7h, Qs ]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 raises [$225]
+crystal raises [$2,084]
+rbam13 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $600 ]
+
+
+
+#Game No : 490170833
+***** WSOP.com-NJ Hand History for Game 490170833 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:06:31
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,336 )
+Seat 2: bigmike79 ( $2,800 )
+Seat 4: EZduzIT ( $1,070 )
+Seat 7: rbam13 ( $2,260 )
+Seat 9: crystal ( $2,534 )
+crystal posts small blind [$75]
+Moejay1021 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6h, 5s ]
+bigmike79 folds
+EZduzIT folds
+rbam13 calls [$150]
+crystal folds
+Moejay1021 checks
+** Dealing flop ** [ Ac, 9s, 8h ]
+Moejay1021 checks
+rbam13 bets [$250]
+Moejay1021 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $375 ]
+
+
+
+#Game No : 490170853
+***** WSOP.com-NJ Hand History for Game 490170853 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:07:03
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,186 )
+Seat 2: bigmike79 ( $2,800 )
+Seat 4: EZduzIT ( $1,070 )
+Seat 7: rbam13 ( $2,485 )
+Seat 9: crystal ( $2,459 )
+Moejay1021 posts small blind [$75]
+bigmike79 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ Kh, 8d ]
+EZduzIT calls [$150]
+rbam13 folds
+crystal folds
+Moejay1021 calls [$75]
+bigmike79 checks
+** Dealing flop ** [ 2c, 3s, Ah ]
+Moejay1021 checks
+bigmike79 checks
+EZduzIT bets [$150]
+Moejay1021 folds
+bigmike79 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $450 ]
+
+
+
+#Game No : 490170871
+***** WSOP.com-NJ Hand History for Game 490170871 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:07:31
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $3,036 )
+Seat 2: bigmike79 ( $2,650 )
+Seat 4: EZduzIT ( $1,370 )
+Seat 7: rbam13 ( $2,485 )
+Seat 9: crystal ( $2,459 )
+bigmike79 posts small blind [$75]
+EZduzIT posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ Tc, Ts ]
+rbam13 folds
+crystal raises [$450]
+Moejay1021 calls [$450]
+bigmike79 folds
+EZduzIT folds
+** Dealing flop ** [ 9d, 5c, Qc ]
+crystal bets [$1,125]
+Moejay1021 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $1,125 ]
+
+
+
+#Game No : 490170889
+***** WSOP.com-NJ Hand History for Game 490170889 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:08:04
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $2,586 )
+Seat 2: bigmike79 ( $2,575 )
+Seat 4: EZduzIT ( $1,220 )
+Seat 7: rbam13 ( $2,485 )
+Seat 9: crystal ( $3,134 )
+EZduzIT posts small blind [$75]
+rbam13 posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5h, Js ]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$150]
+EZduzIT calls [$75]
+rbam13 checks
+** Dealing flop ** [ 9h, 9s, 2c ]
+EZduzIT bets [$150]
+rbam13 folds
+bigmike79 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $450 ]
+
+
+
+#Game No : 490170906
+***** WSOP.com-NJ Hand History for Game 490170906 *****
+$75/$150 Blinds No Limit Holdem - *** 23 09 2017 18:08:48
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $2,586 )
+Seat 2: bigmike79 ( $2,425 )
+Seat 4: EZduzIT ( $1,520 )
+Seat 7: rbam13 ( $2,335 )
+Seat 9: crystal ( $3,134 )
+rbam13 posts small blind [$75]
+crystal posts big blind [$150]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ac, 9s ]
+Moejay1021 raises [$300]
+bigmike79 folds
+EZduzIT folds
+rbam13 folds
+crystal calls [$150]
+** Dealing flop ** [ Ks, 8h, 6d ]
+crystal checks
+Moejay1021 bets [$337]
+crystal raises [$674]
+Moejay1021 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $1,349 ]
+
+
+
+#Game No : 490170929
+***** WSOP.com-NJ Hand History for Game 490170929 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:09:28
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,949 )
+Seat 2: bigmike79 ( $2,425 )
+Seat 4: EZduzIT ( $1,520 )
+Seat 7: rbam13 ( $2,260 )
+Seat 9: crystal ( $3,846 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+crystal posts small blind [$100]
+Moejay1021 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ts, 6c ]
+bigmike79 folds
+EZduzIT calls [$200]
+rbam13 folds
+crystal folds
+Moejay1021 checks
+** Dealing flop ** [ Qd, 2d, 8h ]
+Moejay1021 checks
+EZduzIT bets [$400]
+Moejay1021 folds
+** Summary **
+EZduzIT did not show his hand
+EZduzIT collected [ $625 ]
+
+
+
+#Game No : 490170942
+***** WSOP.com-NJ Hand History for Game 490170942 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:09:57
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,724 )
+Seat 2: bigmike79 ( $2,400 )
+Seat 4: EZduzIT ( $1,920 )
+Seat 7: rbam13 ( $2,235 )
+Seat 9: crystal ( $3,721 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+Moejay1021 posts small blind [$100]
+bigmike79 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6h, Th ]
+EZduzIT folds
+rbam13 raises [$400]
+crystal folds
+Moejay1021 folds
+bigmike79 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $625 ]
+
+
+
+#Game No : 490170959
+***** WSOP.com-NJ Hand History for Game 490170959 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:10:27
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,599 )
+Seat 2: bigmike79 ( $2,175 )
+Seat 4: EZduzIT ( $1,895 )
+Seat 7: rbam13 ( $2,635 )
+Seat 9: crystal ( $3,696 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+bigmike79 posts small blind [$100]
+EZduzIT posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ 4h, 6s ]
+rbam13 raises [$400]
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$300]
+EZduzIT folds
+** Dealing flop ** [ 5d, 2d, 4c ]
+bigmike79 checks
+rbam13 bets [$562]
+bigmike79 folds
+** Summary **
+rbam13 did not show his hand
+rbam13 collected [ $1,125 ]
+
+
+
+#Game No : 490170976
+***** WSOP.com-NJ Hand History for Game 490170976 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:11:00
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,574 )
+Seat 2: bigmike79 ( $1,750 )
+Seat 4: EZduzIT ( $1,670 )
+Seat 7: rbam13 ( $3,335 )
+Seat 9: crystal ( $3,671 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+EZduzIT posts small blind [$100]
+rbam13 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5s, 2h ]
+crystal raises [$825]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $625 ]
+
+
+
+#Game No : 490170983
+***** WSOP.com-NJ Hand History for Game 490170983 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:11:13
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,549 )
+Seat 2: bigmike79 ( $1,725 )
+Seat 4: EZduzIT ( $1,545 )
+Seat 7: rbam13 ( $3,110 )
+Seat 9: crystal ( $4,071 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+rbam13 posts small blind [$100]
+crystal posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5s, 4d ]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 calls [$100]
+crystal raises [$525]
+rbam13 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $525 ]
+
+
+
+#Game No : 490170999
+***** WSOP.com-NJ Hand History for Game 490170999 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:11:40
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,524 )
+Seat 2: bigmike79 ( $1,700 )
+Seat 4: EZduzIT ( $1,520 )
+Seat 7: rbam13 ( $2,885 )
+Seat 9: crystal ( $4,371 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+crystal posts small blind [$100]
+Moejay1021 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ 4c, Th ]
+bigmike79 folds
+EZduzIT folds
+rbam13 calls [$200]
+crystal calls [$100]
+Moejay1021 checks
+** Dealing flop ** [ Ad, 3d, 5s ]
+crystal checks
+Moejay1021 checks
+rbam13 checks
+** Dealing turn ** [ 9h ]
+crystal bets [$400]
+Moejay1021 folds
+rbam13 calls [$400]
+** Dealing river ** [ 5c ]
+crystal checks
+rbam13 checks
+** Summary **
+crystal shows [ 6c, 9c ]
+rbam13 shows [ Qh, 9d ]
+rbam13 collected [ $762 ]
+crystal collected [ $763 ]
+
+
+
+#Game No : 490171028
+***** WSOP.com-NJ Hand History for Game 490171028 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:12:23
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $1,299 )
+Seat 2: bigmike79 ( $1,675 )
+Seat 4: EZduzIT ( $1,495 )
+Seat 7: rbam13 ( $3,022 )
+Seat 9: crystal ( $4,509 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+Moejay1021 posts small blind [$100]
+bigmike79 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ Jh, Ad ]
+EZduzIT raises [$600]
+rbam13 folds
+crystal folds
+Moejay1021 raises [$1,174]
+bigmike79 folds
+EZduzIT calls [$674]
+** Dealing flop ** [ As, 2h, 6h ]
+** Dealing turn ** [ Ks ]
+** Dealing river ** [ 4c ]
+** Summary **
+Moejay1021 shows [ Jh, Ad ]
+EZduzIT shows [ Qh, Qc ]
+Moejay1021 collected [ $2,873 ]
+
+
+
+#Game No : 490171053
+***** WSOP.com-NJ Hand History for Game 490171053 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:13:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $2,873 )
+Seat 2: bigmike79 ( $1,450 )
+Seat 4: EZduzIT ( $196 )
+Seat 7: rbam13 ( $2,997 )
+Seat 9: crystal ( $4,484 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+bigmike79 posts small blind [$100]
+EZduzIT posts big blind [$171]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6s, Qd ]
+rbam13 folds
+crystal folds
+Moejay1021 folds
+bigmike79 calls [$100]
+** Dealing flop ** [ 3c, Ac, Qh ]
+** Dealing turn ** [ 3s ]
+** Dealing river ** [ Ts ]
+** Summary **
+bigmike79 shows [ 9c, 2h ]
+EZduzIT shows [ 5d, Ah ]
+EZduzIT collected [ $467 ]
+bigmike79 collected [ $29 ]
+
+
+
+#Game No : 490171073
+***** WSOP.com-NJ Hand History for Game 490171073 *****
+$100/$200 Blinds No Limit Holdem - *** 23 09 2017 18:13:29
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $2,848 )
+Seat 2: bigmike79 ( $1,254 )
+Seat 4: EZduzIT ( $467 )
+Seat 7: rbam13 ( $2,972 )
+Seat 9: crystal ( $4,459 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+EZduzIT posts small blind [$100]
+rbam13 posts big blind [$200]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ad, 2h ]
+crystal folds
+Moejay1021 folds
+bigmike79 raises [$400]
+EZduzIT raises [$342]
+rbam13 folds
+bigmike79 calls [$42]
+** Dealing flop ** [ 3c, 6d, 4c ]
+** Dealing turn ** [ Qs ]
+** Dealing river ** [ Kh ]
+** Summary **
+bigmike79 shows [ Ac, As ]
+EZduzIT shows [ Kc, Kd ]
+EZduzIT collected [ $1,209 ]
+
+
+
+#Game No : 490171118
+***** WSOP.com-NJ Hand History for Game 490171118 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:14:17
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 1: Moejay1021 ( $2,823 )
+Seat 2: bigmike79 ( $787 )
+Seat 4: EZduzIT ( $1,209 )
+Seat 7: rbam13 ( $2,747 )
+Seat 9: crystal ( $4,434 )
+rbam13 posts ante [$25]
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+rbam13 posts small blind [$150]
+crystal posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2c, 4h ]
+Moejay1021 folds
+bigmike79 folds
+EZduzIT folds
+rbam13 calls [$150]
+crystal raises [$725]
+rbam13 raises [$2,422]
+crystal calls [$1,697]
+** Dealing flop ** [ 9d, 4s, 9h ]
+** Dealing turn ** [ Jc ]
+** Dealing river ** [ 4d ]
+** Summary **
+rbam13 shows [ Ah, Qs ]
+crystal shows [ Qd, Qc ]
+crystal collected [ $5,569 ]
+
+
+
+#Game No : 490171146
+***** WSOP.com-NJ Hand History for Game 490171146 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:14:51
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 1: Moejay1021 ( $2,798 )
+Seat 2: bigmike79 ( $762 )
+Seat 4: EZduzIT ( $1,184 )
+Seat 9: crystal ( $7,256 )
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+crystal posts small blind [$150]
+Moejay1021 posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ Kh, 6s ]
+bigmike79 folds
+EZduzIT folds
+crystal folds
+** Summary **
+Moejay1021 did not show his hand
+Moejay1021 collected [ $550 ]
+
+
+
+#Game No : 490171155
+***** WSOP.com-NJ Hand History for Game 490171155 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:15:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 1: Moejay1021 ( $3,023 )
+Seat 2: bigmike79 ( $737 )
+Seat 4: EZduzIT ( $1,159 )
+Seat 9: crystal ( $7,081 )
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+Moejay1021 posts small blind [$150]
+bigmike79 posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ 6c, Tc ]
+EZduzIT folds
+crystal folds
+Moejay1021 calls [$150]
+bigmike79 raises [$412]
+Moejay1021 folds
+** Summary **
+bigmike79 did not show his hand
+bigmike79 collected [ $700 ]
+
+
+
+#Game No : 490171165
+***** WSOP.com-NJ Hand History for Game 490171165 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:15:30
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Moejay1021 ( $2,698 )
+Seat 2: bigmike79 ( $1,112 )
+Seat 4: EZduzIT ( $1,134 )
+Seat 9: crystal ( $7,056 )
+Moejay1021 posts ante [$25]
+bigmike79 posts ante [$25]
+EZduzIT posts ante [$25]
+crystal posts ante [$25]
+bigmike79 posts small blind [$150]
+EZduzIT posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ 2d, Jc ]
+crystal raises [$1,150]
+Moejay1021 folds
+bigmike79 calls [$937]
+EZduzIT calls [$809]
+** Dealing flop ** [ Js, 7s, Tc ]
+** Dealing turn ** [ 5c ]
+** Dealing river ** [ Ks ]
+** Summary **
+bigmike79 shows [ Kd, 9h ]
+EZduzIT shows [ Qs, Qc ]
+crystal shows [ Qh, As ]
+crystal collected [ $3,361 ]
+crystal collected [ $44 ]
+
+
+
+#Game No : 490171185
+***** WSOP.com-NJ Hand History for Game 490171185 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:16:01
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 1 is the button
+Total number of players : 2
+Seat 1: Moejay1021 ( $2,673 )
+Seat 9: crystal ( $9,327 )
+Moejay1021 posts ante [$25]
+crystal posts ante [$25]
+Moejay1021 posts small blind [$150]
+crystal posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ 5d, 7h ]
+Moejay1021 folds
+** Summary **
+crystal did not show his hand
+crystal collected [ $500 ]
+
+
+
+#Game No : 490171192
+***** WSOP.com-NJ Hand History for Game 490171192 *****
+$150/$300 Blinds No Limit Holdem - *** 23 09 2017 18:16:14
+Tournament #1178914 $4.60 + $0.40 - Table #1 6 Max (Real Money)
+Seat 9 is the button
+Total number of players : 2
+Seat 1: Moejay1021 ( $2,498 )
+Seat 9: crystal ( $9,502 )
+Moejay1021 posts ante [$25]
+crystal posts ante [$25]
+crystal posts small blind [$150]
+Moejay1021 posts big blind [$300]
+** Dealing down cards **
+Dealt to Moejay1021 [ Ad, 2h ]
+crystal raises [$800]
+Moejay1021 raises [$2,173]
+crystal calls [$1,523]
+** Dealing flop ** [ 3s, 5s, Jc ]
+** Dealing turn ** [ 2s ]
+** Dealing river ** [ 8s ]
+** Summary **
+Moejay1021 shows [ Ad, 2h ]
+crystal shows [ Kc, 8d ]
+crystal collected [ $4,996 ]
+
+
+
