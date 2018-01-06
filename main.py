@@ -4,7 +4,7 @@ class Hand():
         self.flop = False
         self.showdown = False
         self.won = False
-        
+        self.position = 0
 
     def set_pocket(self, cards):
         self.pocket = cards
@@ -17,6 +17,22 @@ class Hand():
 
     def won_hand(self):
         self.won = True
+
+    def set_position(self, position):
+        self.position = position
+
+positions = {
+    0: "button",
+    1: "1st",
+    2: "2nd",
+    3: "3rd",
+    4: "4th",
+    5: "5th",
+}
+
+seats = []
+button = ""
+players = 0
 
 sng = open("hand.txt", "r")
 hand_count = 0
@@ -36,7 +52,28 @@ for ln in sng:
         hand = Hand()
         showdown = False
         flop_dealt = False
+        button = ""
+        players = 0
+        seats = []
         
+    if "Seat" in ln:
+        if "button" in ln:
+            button = ln[:6]
+        else:
+            stop = ln.find(" ", 8)
+            name = ln[:stop]
+            seats.append(name)
+            if len(seats) == players:
+                while button not in seats[0]:
+                    seats.append(seats.pop(0))
+                for i, player in enumerate(seats):
+                    if "Moejay1021" in player:
+                        hand.set_position(positions[i])
+
+    if "players" in ln:
+        players = int(ln[-2])
+
+    
 
     if "Dealt to Moejay1021" in ln:
         start = ln.find("[")
@@ -48,18 +85,16 @@ for ln in sng:
     if "Dealing flop" in ln:
         flop_dealt = True
 
-    if flop_dealt and "Moejay1021" in ln:
+    if flop_dealt and "Moejay1021" in ln and not hand.flop:
         hand.saw_flop()
         flop_count += 1
-        flop_dealt = False
 
     if "shows" in ln:
         showdown = True
 
-    if showdown and "Moejay1021" in ln:
+    if showdown and "Moejay1021" in ln and not hand.showdown:
         hand.went_showdown()
         show_count += 1
-        showdown = False
 
     if "Moejay1021 collected" in ln:
         hand.won_hand()
@@ -67,12 +102,13 @@ for ln in sng:
 hands.append(hand)
 
 for hand in hands:
-    print(hand.pocket)
-    print(hand.flop)
-    print(hand.won)
-    print(hand.showdown)
-
-print("hands played:", hand_count)
+    print("position:", hand.position)
+    print("dealt:", hand.pocket)
+    print("saw flop:", hand.flop)
+    print("showdown:", hand.showdown)
+    print("won:", hand.won)
+    
+print("hands dealt:", hand_count)
 print("hands flopped:", flop_count)
 print("saw showdown:", show_count)
 print("hands won:", won_count)
